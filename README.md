@@ -2,4 +2,4 @@
 
 Hi humans!
 
-AboutI here,I like Node.js and Java.
+AboutI here,I like HTML, CSS, JavaScript and PHP.
